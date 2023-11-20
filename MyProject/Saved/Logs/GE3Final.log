@@ -1745,3 +1745,675 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.20-00.20.56:482][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
 [2023.11.20-00.20.56:482][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
 [2023.11.20-00.20.56:483][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.21.54:862][514]LogCEFBrowser: CEF GPU acceleration enabled
+[2023.11.20-00.23.07:983][787]LogSlate: Window 'Bridge' being destroyed
+[2023.11.20-00.23.07:999][787]LogSlate: Window 'Bridge' being destroyed
+[2023.11.20-00.23.07:999][787]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2023.11.20-00.23.08:000][787]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.2/Engine/Plugins/Bridge/ThirdParty/megascans/index.html?token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IjIwNjk1MjUwNzFAcXEuY29tIiwic2NvcGUiOlsiZGVmYXVsdDp1c2VyIiwibWVnYXNjYW5zOnVzZXIiXSwiZXBpY0FjY291bnRJZCI6ImQ4OGZlZmFjNzhhNTQ0MTY4NzM5NmQ0NzljNWM5NjYyIiwiaXNVbnJlYWxFVUxBQWNjZXB0ZWQiOnRydWUsImlzRXBpY0FjY291bnQiOnRydWUsInF1aXhlbEFjY291bnRJZCI6ImY2YjY0YWZkLWU1ODgtNGRjYS05OTFhLThiZTcyMDhiZmVmNCIsInJlYWxtIjoibWVnYXNjYW5zIiwiZXVsYXNBY2NlcHRlZCI6WyJ1ZSIsImVwaWNfY29udGVudCJdLCJpYXQiOjE3MDA0Mzc2MzcsImV4cCI6MTcwMDQ2NjQzNywiaXNzIjoicXVpeGVsLXNzby1wcm9kIiwianRpIjoiNzFlZjdlNDUtMGE1OC00NmNmLTgzZGQtNDY4ZDA5YzJhNGM5In0.azciYwVko4Z9j8q35z0oYkSh3wdLmpWNEPcGsMVDhYX1DtwDjFV0IkGGjKS6k8wfJehlKAhduWK3ILD36QcTfVlXJtlHmCvDAXKBhnIa3s_897K29f1Yd1L2eb7gi43rFwmTq3OgiR693ilRmKtau_hXcXsh3kLz1n1F4POlyhi1ZLRO_zn1KjOgnThPuGxPkleAH7GENUPPKvFPWX7JDWc4lo6gRVWdKw3K3JvOGfiGyIAxH01yGSxOtwcZ6cCq6fOPL7_h63-Llpi8jS3pAsYdWIOhDXLmzFNSQWR8aVY9SnFL77zOGilIhSrnOAeF-UGHgH8ZfYFWaXBjuisMkQ&refreshToken=ZDNjYTM1MjAtNTI2NC00ZDdkLTg2NTAtZWJiNDk4MDdkZjdl#/megascans/home.
+[2023.11.20-00.26.06:653][878]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.26.06:653][878]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.26.06:694][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.26.48:179][ 98]LogSlate: Window '选取父类' being destroyed
+[2023.11.20-00.26.48:197][ 98]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.11.20-00.26.48:200][ 98]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.11.20-00.26.48:209][ 99]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.11.20-00.26.54:323][615]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Button
+[2023.11.20-00.26.54:328][615]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.11.20-00.26.55:571][722]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/My_BP/BP_Button.BP_Button
+[2023.11.20-00.26.55:571][722]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-00.26.55:571][722]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-00.26.55:632][722]LogViewport: Scene viewport resized to 1525x1005, mode Windowed.
+[2023.11.20-00.26.55:666][723]LogViewport: Scene viewport resized to 1525x994, mode Windowed.
+[2023.11.20-00.26.55:728][724]LogViewport: Scene viewport resized to 1525x979, mode Windowed.
+[2023.11.20-00.27.24:670][ 58]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display: ================================================
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display: Total job queries 103, among them cache hits 15 (14.56%)
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display: Tracking 85 distinct input hashes that result in 61 distinct outputs (71.76%)
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display: RAM used: 1.81 MiB of 1.60 GiB budget. Usage: 0.11%
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display: Shaders Compiled: 16
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display: Jobs assigned 19, completed 16 (84.21%)
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display: Average time worker was idle: 802.54 s
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.08 s
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display: Job execution time: average 1.13 s, max 1.86 s
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display: Job life time (pending + execution): average 1.16 s, max 1.91
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.61 s
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display: Jobs were issued in 19 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display: Average processing rate: 3.47 jobs/sec
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display: Total thread time: 8.24 s
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display: Total thread preprocess time: 0.388 s
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display: Percentage time preprocessing: 4.71%
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display: Effective parallelization: 1.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.97 sec, max 0.97 sec, min 0.96 sec)
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.58 sec, max 0.64 sec, min 0.48 sec)
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.51 sec, max 0.57 sec, min 0.41 sec)
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    4 times, average 0.43 sec, max 0.49 sec, min 0.35 sec)
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    4 times, average 0.34 sec, max 0.39 sec, min 0.27 sec)
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 23.52% of total time (compiled    2 times, average 0.97 sec, max 0.97 sec, min 0.96 sec)
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.02% of total time (compiled    3 times, average 0.58 sec, max 0.64 sec, min 0.48 sec)
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display:                                                 FLumenCardVS - 20.74% of total time (compiled    4 times, average 0.43 sec, max 0.49 sec, min 0.35 sec)
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.41% of total time (compiled    3 times, average 0.51 sec, max 0.57 sec, min 0.41 sec)
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 16.31% of total time (compiled    4 times, average 0.34 sec, max 0.39 sec, min 0.27 sec)
+[2023.11.20-00.27.26:592][283]LogShaderCompilers: Display: ================================================
+[2023.11.20-00.27.30:914][748]LogEditorTransaction: Undo 编辑静态网格体
+[2023.11.20-00.29.02:881][291]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.02:881][291]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.02:881][291]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.02:881][291]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.02:882][291]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.02:882][291]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.02:882][291]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.02:882][291]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.02:882][291]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.02:882][291]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.02:883][291]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.02:883][291]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.04:254][386]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/My_BP/BP_Button.BP_Button_C
+[2023.11.20-00.29.04:254][386]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/My_BP/BP_Button.BP_Button_C
+[2023.11.20-00.29.04:255][386]LogActorFactory: Actor Factory spawned Blueprint /Game/My_BP/BP_Button.BP_Button as actor: BP_Button_C /Game/MyMaps/Stage.Stage:PersistentLevel.BP_Button_C_0
+[2023.11.20-00.29.04:255][386]LogActorFactory: Actor Factory spawned Blueprint /Game/My_BP/BP_Button.BP_Button as actor: BP_Button_C /Game/MyMaps/Stage.Stage:PersistentLevel.BP_Button_C_0
+[2023.11.20-00.29.06:095][571]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/My_BP/BP_Button.BP_Button_C
+[2023.11.20-00.29.06:095][571]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/My_BP/BP_Button.BP_Button_C
+[2023.11.20-00.29.06:097][571]LogActorFactory: Actor Factory spawned Blueprint /Game/My_BP/BP_Button.BP_Button as actor: BP_Button_C /Game/MyMaps/Stage.Stage:PersistentLevel.BP_Button_C_1
+[2023.11.20-00.29.06:098][571]LogActorFactory: Actor Factory spawned Blueprint /Game/My_BP/BP_Button.BP_Button as actor: BP_Button_C /Game/MyMaps/Stage.Stage:PersistentLevel.BP_Button_C_1
+[2023.11.20-00.29.06:111][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.09:635][857]Cmd: TRANSACTION UNDO
+[2023.11.20-00.29.09:635][857]LogEditorTransaction: Undo 创建Actor
+[2023.11.20-00.29.09:711][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.09:711][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.09:711][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.09:711][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.09:712][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.09:712][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.09:712][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.09:712][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.09:712][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.09:713][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.09:713][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.09:714][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.29.37:785][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.11.20-00.29.37:790][ 80]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyMaps/Stage' took 0.025
+[2023.11.20-00.29.37:791][ 80]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/My_BP/BP_Button] ([2] browsable assets)...
+[2023.11.20-00.29.37:837][ 80]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/My_BP/BP_Button.BP_Button]
+[2023.11.20-00.29.37:837][ 80]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_BP/BP_Button]
+[2023.11.20-00.29.37:837][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/My_BP/BP_Button" FILE="F:/Unreal5/GE3-Final/MyProject/Saved/Autosaves/Game/My_BP/BP_Button_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.11.20-00.29.37:840][ 80]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/My_BP/BP_Button_Auto1
+[2023.11.20-00.29.37:840][ 80]LogSavePackage: Moving 'F:/Unreal5/GE3-Final/MyProject/Saved/BP_Button_Auto1DDD4C3E04F22C0DF95E4E087DC12BA0C.tmp' to 'F:/Unreal5/GE3-Final/MyProject/Saved/Autosaves/Game/My_BP/BP_Button_Auto1.uasset'
+[2023.11.20-00.29.37:840][ 80]LogFileHelpers: Auto-saving content packages took 0.050
+[2023.11.20-00.30.20:685][643]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_AssetPlatform.M_AssetPlatform
+[2023.11.20-00.30.20:713][643]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-00.30.20:714][643]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-00.30.20:784][643]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.20-00.30.20:784][643]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.20-00.30.20:784][643]MaterialEditorStats: Shader Count: 0
+[2023.11.20-00.30.20:787][643]LogViewport: Scene viewport resized to 504x637, mode Windowed.
+[2023.11.20-00.30.20:836][644]LogViewport: Scene viewport resized to 504x628, mode Windowed.
+[2023.11.20-00.30.21:637][734]MaterialEditorStats: Base pass shader: 224 instructions
+[2023.11.20-00.30.21:637][734]MaterialEditorStats: Base pass vertex shader: 256 instructions
+[2023.11.20-00.30.21:637][734]MaterialEditorStats: Texture samplers: 4/16
+[2023.11.20-00.30.21:638][734]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.20-00.30.21:638][734]MaterialEditorStats: Shader Count: 4
+[2023.11.20-00.30.33:658][142]LogShaderCompilers: Display: ================================================
+[2023.11.20-00.30.33:658][142]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.20-00.30.33:658][142]LogShaderCompilers: Display: Total job queries 127, among them cache hits 19 (14.96%)
+[2023.11.20-00.30.33:658][142]LogShaderCompilers: Display: Tracking 108 distinct input hashes that result in 73 distinct outputs (67.59%)
+[2023.11.20-00.30.33:658][142]LogShaderCompilers: Display: RAM used: 2.29 MiB of 1.60 GiB budget. Usage: 0.14%
+[2023.11.20-00.30.33:658][142]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.20-00.30.33:658][142]LogShaderCompilers: Display: Shaders Compiled: 32
+[2023.11.20-00.30.33:658][142]LogShaderCompilers: Display: Jobs assigned 32, completed 32 (100.00%)
+[2023.11.20-00.30.33:658][142]LogShaderCompilers: Display: Average time worker was idle: 368.73 s
+[2023.11.20-00.30.33:658][142]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.08 s
+[2023.11.20-00.30.33:658][142]LogShaderCompilers: Display: Job execution time: average 1.06 s, max 2.37 s
+[2023.11.20-00.30.33:658][142]LogShaderCompilers: Display: Job life time (pending + execution): average 1.10 s, max 2.41
+[2023.11.20-00.30.33:659][142]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.71 s
+[2023.11.20-00.30.33:659][142]LogShaderCompilers: Display: Jobs were issued in 32 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.20-00.30.33:659][142]LogShaderCompilers: Display: Average processing rate: 3.67 jobs/sec
+[2023.11.20-00.30.33:659][142]LogShaderCompilers: Display: Total thread time: 16.194 s
+[2023.11.20-00.30.33:659][142]LogShaderCompilers: Display: Total thread preprocess time: 0.785 s
+[2023.11.20-00.30.33:659][142]LogShaderCompilers: Display: Percentage time preprocessing: 4.85%
+[2023.11.20-00.30.33:659][142]LogShaderCompilers: Display: Effective parallelization: 1.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.11.20-00.30.33:659][142]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.20-00.30.33:659][142]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 0.89 sec, max 0.97 sec, min 0.82 sec)
+[2023.11.20-00.30.33:659][142]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2023.11.20-00.30.33:659][142]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.52 sec, max 0.64 sec, min 0.43 sec)
+[2023.11.20-00.30.33:659][142]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    7 times, average 0.46 sec, max 0.57 sec, min 0.40 sec)
+[2023.11.20-00.30.33:659][142]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    6 times, average 0.41 sec, max 0.49 sec, min 0.35 sec)
+[2023.11.20-00.30.33:659][142]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.20-00.30.33:659][142]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 27.36% of total time (compiled    5 times, average 0.89 sec, max 0.97 sec, min 0.82 sec)
+[2023.11.20-00.30.33:659][142]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.63% of total time (compiled    7 times, average 0.52 sec, max 0.64 sec, min 0.43 sec)
+[2023.11.20-00.30.33:659][142]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.94% of total time (compiled    7 times, average 0.46 sec, max 0.57 sec, min 0.40 sec)
+[2023.11.20-00.30.33:659][142]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.02% of total time (compiled    6 times, average 0.41 sec, max 0.49 sec, min 0.35 sec)
+[2023.11.20-00.30.33:659][142]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 11.70% of total time (compiled    6 times, average 0.32 sec, max 0.39 sec, min 0.27 sec)
+[2023.11.20-00.30.33:659][142]LogShaderCompilers: Display: ================================================
+[2023.11.20-00.30.39:698][857]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.20-00.30.39:698][857]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.20-00.30.39:698][857]MaterialEditorStats: Shader Count: 0
+[2023.11.20-00.30.40:209][912]MaterialEditorStats: Base pass vertex shader: 256 instructions
+[2023.11.20-00.30.40:209][912]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.20-00.30.40:210][912]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.20-00.30.40:210][912]MaterialEditorStats: Shader Count: 3
+[2023.11.20-00.30.40:310][924]MaterialEditorStats: Base pass shader: 224 instructions
+[2023.11.20-00.30.40:311][924]MaterialEditorStats: Base pass vertex shader: 256 instructions
+[2023.11.20-00.30.40:311][924]MaterialEditorStats: Texture samplers: 4/16
+[2023.11.20-00.30.40:311][924]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.20-00.30.40:311][924]MaterialEditorStats: Shader Count: 4
+[2023.11.20-00.30.46:354][647]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.20-00.30.46:354][647]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.20-00.30.46:354][647]MaterialEditorStats: Shader Count: 0
+[2023.11.20-00.30.46:369][649]MaterialEditorStats: Base pass shader: 224 instructions
+[2023.11.20-00.30.46:369][649]MaterialEditorStats: Base pass vertex shader: 256 instructions
+[2023.11.20-00.30.46:369][649]MaterialEditorStats: Texture samplers: 4/16
+[2023.11.20-00.30.46:369][649]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.20-00.30.46:369][649]MaterialEditorStats: Shader Count: 4
+[2023.11.20-00.30.56:135][559]LogSlate: Window '消息' being destroyed
+[2023.11.20-00.30.56:150][559]Message dialog closed, result: No, title: 消息, text: 是否将修改材质的变更应用到原材质？
+/Game/StarterContent/Materials/M_AssetPlatform.M_AssetPlatform
+（选择“否”将丢失所有变更！）
+[2023.11.20-00.30.56:163][559]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-00.30.56:163][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-00.30.56:173][559]LogViewport: Scene viewport resized to 1525x1009, mode Windowed.
+[2023.11.20-00.30.56:237][560]LogViewport: Scene viewport resized to 1525x989, mode Windowed.
+[2023.11.20-00.30.56:263][561]LogViewport: Scene viewport resized to 1525x982, mode Windowed.
+[2023.11.20-00.30.56:290][562]LogViewport: Scene viewport resized to 1525x979, mode Windowed.
+[2023.11.20-00.31.10:416][232]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2023.11.20-00.31.10:420][232]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-00.31.10:420][232]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-00.31.10:577][232]LogViewport: Scene viewport resized to 1877x1262, mode Windowed.
+[2023.11.20-00.31.15:534][711]LogEditorTransaction: Undo 材质编辑器：切换折叠项
+[2023.11.20-00.31.22:172][372]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-00.31.22:172][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-00.31.22:191][372]LogViewport: Scene viewport resized to 1525x1014, mode Windowed.
+[2023.11.20-00.31.22:221][373]LogViewport: Scene viewport resized to 1525x1004, mode Windowed.
+[2023.11.20-00.31.22:267][374]LogViewport: Scene viewport resized to 1525x991, mode Windowed.
+[2023.11.20-00.31.22:297][375]LogViewport: Scene viewport resized to 1525x981, mode Windowed.
+[2023.11.20-00.31.22:321][376]LogViewport: Scene viewport resized to 1525x979, mode Windowed.
+[2023.11.20-00.31.24:378][608]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2023.11.20-00.31.24:383][608]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-00.31.24:383][608]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-00.31.24:541][608]LogViewport: Scene viewport resized to 1877x1262, mode Windowed.
+[2023.11.20-00.31.38:719][904]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-00.31.38:719][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-00.31.38:740][904]LogViewport: Scene viewport resized to 1525x1014, mode Windowed.
+[2023.11.20-00.31.38:794][905]LogViewport: Scene viewport resized to 1525x995, mode Windowed.
+[2023.11.20-00.31.38:847][906]LogViewport: Scene viewport resized to 1525x979, mode Windowed.
+[2023.11.20-00.33.26:374][404]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_AssetPlatform.M_AssetPlatform
+[2023.11.20-00.33.26:378][404]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-00.33.26:378][404]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-00.33.26:433][404]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.20-00.33.26:433][404]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.20-00.33.26:433][404]MaterialEditorStats: Shader Count: 0
+[2023.11.20-00.33.26:437][404]LogViewport: Scene viewport resized to 504x639, mode Windowed.
+[2023.11.20-00.33.26:481][405]LogViewport: Scene viewport resized to 504x631, mode Windowed.
+[2023.11.20-00.33.26:551][406]LogViewport: Scene viewport resized to 504x628, mode Windowed.
+[2023.11.20-00.33.27:288][491]MaterialEditorStats: Base pass vertex shader: 256 instructions
+[2023.11.20-00.33.27:288][491]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.20-00.33.27:288][491]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.20-00.33.27:288][491]MaterialEditorStats: Shader Count: 3
+[2023.11.20-00.33.27:389][503]MaterialEditorStats: Base pass shader: 224 instructions
+[2023.11.20-00.33.27:389][503]MaterialEditorStats: Base pass vertex shader: 256 instructions
+[2023.11.20-00.33.27:389][503]MaterialEditorStats: Texture samplers: 4/16
+[2023.11.20-00.33.27:389][503]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.20-00.33.27:389][503]MaterialEditorStats: Shader Count: 4
+[2023.11.20-00.33.45:439][616]LogEditorTransaction: Undo 拉直连接
+[2023.11.20-00.35.21:660][304]LogWindows: LaunchURL https://docs.unrealengine.com/5.2/zh-Hans/Engine/Rendering/Materials/ExpressionReference/Constant?utm_source=editor&utm_medium=docs&utm_campaign=rich_tooltips#constant
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display: ================================================
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display: Total job queries 154, among them cache hits 34 (22.08%)
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display: Tracking 120 distinct input hashes that result in 77 distinct outputs (64.17%)
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display: RAM used: 2.53 MiB of 1.60 GiB budget. Usage: 0.15%
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display: Shaders Compiled: 44
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display: Jobs assigned 44, completed 44 (100.00%)
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display: Average time worker was idle: 356.90 s
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.08 s
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display: Job execution time: average 0.96 s, max 2.37 s
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display: Job life time (pending + execution): average 1.00 s, max 2.41
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.92 s
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display: Jobs were issued in 44 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display: Average processing rate: 4.03 jobs/sec
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display: Total thread time: 22.219 s
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display: Total thread preprocess time: 1.062 s
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display: Percentage time preprocessing: 4.78%
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display: Effective parallelization: 2.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    7 times, average 0.88 sec, max 0.97 sec, min 0.80 sec)
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   10 times, average 0.52 sec, max 0.64 sec, min 0.43 sec)
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   10 times, average 0.46 sec, max 0.57 sec, min 0.40 sec)
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    8 times, average 0.41 sec, max 0.49 sec, min 0.35 sec)
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 27.76% of total time (compiled    7 times, average 0.88 sec, max 0.97 sec, min 0.80 sec)
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.27% of total time (compiled   10 times, average 0.52 sec, max 0.64 sec, min 0.43 sec)
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.65% of total time (compiled   10 times, average 0.46 sec, max 0.57 sec, min 0.40 sec)
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.61% of total time (compiled    8 times, average 0.41 sec, max 0.49 sec, min 0.35 sec)
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 11.27% of total time (compiled    8 times, average 0.31 sec, max 0.39 sec, min 0.27 sec)
+[2023.11.20-00.36.20:237][867]LogShaderCompilers: Display: ================================================
+[2023.11.20-00.36.26:002][458]LogWindows: LaunchURL https://docs.unrealengine.com/5.2/zh-Hans/Engine/Rendering/Materials/ExpressionReference/Constant?utm_source=editor&utm_medium=docs&utm_campaign=rich_tooltips#constant
+[2023.11.20-00.39.38:524][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.11.20-00.39.38:527][967]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyMaps/Stage' took 0.021
+[2023.11.20-00.39.38:528][967]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My_BP/BP_Button] ([2] browsable assets)...
+[2023.11.20-00.39.38:528][967]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_BP/BP_Button]
+[2023.11.20-00.39.38:528][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/My_BP/BP_Button" FILE="F:/Unreal5/GE3-Final/MyProject/Saved/Autosaves/Game/My_BP/BP_Button_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.11.20-00.39.38:530][967]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/My_BP/BP_Button_Auto2
+[2023.11.20-00.39.38:530][967]LogSavePackage: Moving 'F:/Unreal5/GE3-Final/MyProject/Saved/BP_Button_Auto2B1ED13394BC61CC5BCFD45A8272DED6E.tmp' to 'F:/Unreal5/GE3-Final/MyProject/Saved/Autosaves/Game/My_BP/BP_Button_Auto2.uasset'
+[2023.11.20-00.39.38:531][967]LogFileHelpers: Auto-saving content packages took 0.003
+[2023.11.20-00.39.45:218][983]LogSlate: Window '消息' being destroyed
+[2023.11.20-00.39.45:231][983]Message dialog closed, result: No, title: 消息, text: 是否将修改材质的变更应用到原材质？
+/Game/StarterContent/Materials/M_AssetPlatform.M_AssetPlatform
+（选择“否”将丢失所有变更！）
+[2023.11.20-00.39.45:242][983]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-00.39.45:242][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-00.39.45:254][983]LogViewport: Scene viewport resized to 1525x1013, mode Windowed.
+[2023.11.20-00.39.45:308][984]LogViewport: Scene viewport resized to 1525x996, mode Windowed.
+[2023.11.20-00.39.45:336][985]LogViewport: Scene viewport resized to 1525x987, mode Windowed.
+[2023.11.20-00.39.45:363][986]LogViewport: Scene viewport resized to 1525x979, mode Windowed.
+[2023.11.20-00.39.49:323][454]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.39.49:324][454]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.39.49:324][454]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.39.49:324][454]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.39.49:324][454]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.39.49:324][454]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.39.49:325][454]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.39.49:325][454]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.39.49:325][454]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.39.49:325][454]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.39.49:326][454]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.39.49:326][454]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.40.18:543][141]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.11.20-00.40.18:605][141]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.11.20-00.40.18:622][143]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.11.20-00.40.33:861][480]LogContentBrowser: Attempting asset rename: NewMaterial -> Button_Color
+[2023.11.20-00.40.33:865][480]LogContentBrowser: End creating deferred item NewMaterial
+[2023.11.20-00.40.35:006][570]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MyProps/Button_Color.Button_Color
+[2023.11.20-00.40.35:008][570]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-00.40.35:009][570]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-00.40.35:077][570]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.20-00.40.35:077][570]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.20-00.40.35:077][570]MaterialEditorStats: Shader Count: 0
+[2023.11.20-00.40.35:080][570]LogViewport: Scene viewport resized to 504x642, mode Windowed.
+[2023.11.20-00.40.35:126][571]LogViewport: Scene viewport resized to 504x632, mode Windowed.
+[2023.11.20-00.40.35:203][572]LogViewport: Scene viewport resized to 504x628, mode Windowed.
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display: ================================================
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display: Total job queries 161, among them cache hits 36 (22.36%)
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display: Tracking 121 distinct input hashes that result in 78 distinct outputs (64.46%)
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display: RAM used: 2.54 MiB of 1.60 GiB budget. Usage: 0.16%
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display: Shaders Compiled: 45
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display: Jobs assigned 49, completed 45 (91.84%)
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display: Average time worker was idle: 365.99 s
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.12 s
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display: Job execution time: average 0.96 s, max 2.37 s
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display: Job life time (pending + execution): average 1.01 s, max 2.41
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.18 s
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display: Jobs were issued in 49 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display: Average processing rate: 3.69 jobs/sec
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display: Total thread time: 22.545 s
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display: Total thread preprocess time: 1.098 s
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display: Percentage time preprocessing: 4.87%
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display: Effective parallelization: 1.85 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    7 times, average 0.88 sec, max 0.97 sec, min 0.80 sec)
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   10 times, average 0.52 sec, max 0.64 sec, min 0.43 sec)
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   10 times, average 0.46 sec, max 0.57 sec, min 0.40 sec)
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    8 times, average 0.41 sec, max 0.49 sec, min 0.35 sec)
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 27.36% of total time (compiled    7 times, average 0.88 sec, max 0.97 sec, min 0.80 sec)
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.94% of total time (compiled   10 times, average 0.52 sec, max 0.64 sec, min 0.43 sec)
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.35% of total time (compiled   10 times, average 0.46 sec, max 0.57 sec, min 0.40 sec)
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.39% of total time (compiled    8 times, average 0.41 sec, max 0.49 sec, min 0.35 sec)
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 12.55% of total time (compiled    9 times, average 0.31 sec, max 0.39 sec, min 0.27 sec)
+[2023.11.20-00.40.36:383][699]LogShaderCompilers: Display: ================================================
+[2023.11.20-00.40.36:590][724]MaterialEditorStats: Base pass vertex shader: 256 instructions
+[2023.11.20-00.40.36:590][724]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.20-00.40.36:590][724]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.20-00.40.36:590][724]MaterialEditorStats: Shader Count: 3
+[2023.11.20-00.40.36:693][736]MaterialEditorStats: Base pass shader: 222 instructions
+[2023.11.20-00.40.36:693][736]MaterialEditorStats: Base pass vertex shader: 256 instructions
+[2023.11.20-00.40.36:693][736]MaterialEditorStats: Texture samplers: 4/16
+[2023.11.20-00.40.36:693][736]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.20-00.40.36:693][736]MaterialEditorStats: Shader Count: 4
+[2023.11.20-00.41.03:441][437]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.20-00.41.03:441][437]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.20-00.41.03:441][437]MaterialEditorStats: Shader Count: 0
+[2023.11.20-00.41.03:464][439]MaterialEditorStats: Base pass shader: 222 instructions
+[2023.11.20-00.41.03:464][439]MaterialEditorStats: Base pass vertex shader: 256 instructions
+[2023.11.20-00.41.03:464][439]MaterialEditorStats: Texture samplers: 4/16
+[2023.11.20-00.41.03:464][439]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.20-00.41.03:464][439]MaterialEditorStats: Shader Count: 5
+[2023.11.20-00.41.08:668][ 44]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.20-00.41.08:668][ 44]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.20-00.41.08:668][ 44]MaterialEditorStats: Shader Count: 0
+[2023.11.20-00.41.09:255][112]MaterialEditorStats: Base pass shader: 222 instructions
+[2023.11.20-00.41.09:255][112]MaterialEditorStats: Base pass vertex shader: 256 instructions
+[2023.11.20-00.41.09:255][112]MaterialEditorStats: Texture samplers: 4/16
+[2023.11.20-00.41.09:255][112]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.20-00.41.09:255][112]MaterialEditorStats: Shader Count: 3
+[2023.11.20-00.41.19:020][219]LogMaterialEditor: Saving and Compiling material Button_Color
+[2023.11.20-00.41.19:127][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.11.20-00.41.19:710][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.11.20-00.41.19:741][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-00.41.21:567][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyProps/Button_Color" FILE="F:/Unreal5/GE3-Final/MyProject/Content/MyProps/Button_Color.uasset" SILENT=true
+[2023.11.20-00.41.21:568][219]LogSavePackage: Moving output files for package: /Game/MyProps/Button_Color
+[2023.11.20-00.41.21:568][219]LogSavePackage: Moving 'F:/Unreal5/GE3-Final/MyProject/Saved/Button_ColorA5FB28C149BCD48A2CCC3BA2740FC636.tmp' to 'F:/Unreal5/GE3-Final/MyProject/Content/MyProps/Button_Color.uasset'
+[2023.11.20-00.41.21:584][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.84 sec (total: 2.41 sec)
+[2023.11.20-00.41.21:588][219]AssetCheck: New page: 资产保存：Button_Color
+[2023.11.20-00.41.21:588][219]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/MyProps/Button_Color.Button_Color
+[2023.11.20-00.41.21:589][219]MaterialEditorStats: Base pass shader: 222 instructions
+[2023.11.20-00.41.21:589][219]MaterialEditorStats: Base pass vertex shader: 256 instructions
+[2023.11.20-00.41.21:589][219]MaterialEditorStats: MaxSampler: 270 instructions
+[2023.11.20-00.41.21:589][219]MaterialEditorStats: Texture samplers: 5/16
+[2023.11.20-00.41.21:589][219]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.20-00.41.21:589][219]MaterialEditorStats: Shader Count: 20
+[2023.11.20-00.41.27:863][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.11.20-00.41.29:426][806]LogSlate: Window '保存内容' being destroyed
+[2023.11.20-00.41.29:443][806]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-00.41.29:477][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/My_BP/BP_Button" FILE="F:/Unreal5/GE3-Final/MyProject/Content/My_BP/BP_Button.uasset" SILENT=true
+[2023.11.20-00.41.29:479][806]LogSavePackage: Moving output files for package: /Game/My_BP/BP_Button
+[2023.11.20-00.41.29:479][806]LogSavePackage: Moving 'F:/Unreal5/GE3-Final/MyProject/Saved/BP_Button8ABEFC6141C8B7164F6E57BA0B409156.tmp' to 'F:/Unreal5/GE3-Final/MyProject/Content/My_BP/BP_Button.uasset'
+[2023.11.20-00.41.29:495][806]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 2.46 sec)
+[2023.11.20-00.41.29:495][806]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyMaps/Stage.Stage
+[2023.11.20-00.41.29:495][806]Cmd: MAP LOAD FILE="F:/Unreal5/GE3-Final/MyProject/Content/MyMaps/Stage.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.20-00.41.29:495][806]LightingResults: New page: 光照构建
+[2023.11.20-00.41.29:496][806]LoadErrors: New page: 正在加载地图：Stage.umap
+[2023.11.20-00.41.29:580][806]LogWorld: UWorld::CleanupWorld for Stage, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-00.41.29:580][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-00.41.29:581][806]MapCheck: New page: 地图检测
+[2023.11.20-00.41.29:581][806]LightingResults: New page: 光照构建
+[2023.11.20-00.41.29:593][806]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.20-00.41.29:596][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.11.20-00.41.29:612][806]LogAudio: Display: Audio Device (ID: 1) registered with world 'Stage'.
+[2023.11.20-00.41.29:613][806]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-00.41.29:613][806]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-00.41.29:613][806]LogAIModule: Creating AISystem for world Stage
+[2023.11.20-00.41.29:620][806]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.20-00.41.29:636][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.11.20-00.41.29:640][806]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.20-00.41.29:640][806]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.071毫秒。
+[2023.11.20-00.41.29:640][806]LogFileHelpers: Loading map 'Stage' took 0.145
+[2023.11.20-00.41.29:647][806]AssetCheck: New page: 资产保存：BP_Button
+[2023.11.20-00.41.29:647][806]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/My_BP/BP_Button.BP_Button
+[2023.11.20-00.41.29:657][806]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.41.29:657][806]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.41.29:657][806]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.41.29:658][806]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.41.29:658][806]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.41.29:658][806]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.41.29:658][806]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.41.29:658][806]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.41.29:659][806]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.41.29:659][806]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.41.29:659][806]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.41.29:659][806]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.42.05:231][664]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MyMaps/Stage.Stage:PersistentLevel.Stage
+[2023.11.20-00.42.05:232][664]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-00.42.05:232][664]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-00.42.45:370][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-00.42.45:409][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMaps/Stage" FILE="F:/Unreal5/GE3-Final/MyProject/Content/MyMaps/Stage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.20-00.42.45:427][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.11.20-00.42.45:441][433]LogSavePackage: Moving output files for package: /Game/MyMaps/Stage
+[2023.11.20-00.42.45:441][433]LogSavePackage: Moving 'F:/Unreal5/GE3-Final/MyProject/Saved/Stage1B85F04B40C9AD0CE9CF0F96A5DD5ED9.tmp' to 'F:/Unreal5/GE3-Final/MyProject/Content/MyMaps/Stage.umap'
+[2023.11.20-00.42.45:446][433]LogFileHelpers: Saving map 'Stage' took 0.038
+[2023.11.20-00.42.45:461][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 2.55 sec)
+[2023.11.20-00.42.45:464][433]AssetCheck: New page: 资产保存：Stage
+[2023.11.20-00.42.45:465][433]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/MyMaps/Stage.Stage
+[2023.11.20-00.43.53:087][909]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.20-00.43.53:087][909]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.20-00.43.53:087][909]MaterialEditorStats: Shader Count: 0
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display: ================================================
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display: Total job queries 210, among them cache hits 51 (24.29%)
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display: Tracking 153 distinct input hashes that result in 94 distinct outputs (61.44%)
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display: RAM used: 3.25 MiB of 1.60 GiB budget. Usage: 0.20%
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display: Shaders Compiled: 77
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display: Jobs assigned 83, completed 77 (92.77%)
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display: Average time worker was idle: 330.04 s
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 1.03 s
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display: Job execution time: average 0.93 s, max 2.37 s
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display: Job life time (pending + execution): average 1.02 s, max 2.41
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.64 s
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display: Jobs were issued in 83 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display: Average processing rate: 4.37 jobs/sec
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display: Total thread time: 41.663 s
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display: Total thread preprocess time: 1.899 s
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display: Percentage time preprocessing: 4.56%
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display: Effective parallelization: 2.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.14 sec, max 1.14 sec, min 1.14 sec)
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   10 times, average 0.91 sec, max 1.20 sec, min 0.80 sec)
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.80 sec, max 0.80 sec, min 0.80 sec)
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.77 sec, max 0.77 sec, min 0.77 sec)
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 21.82% of total time (compiled   10 times, average 0.91 sec, max 1.20 sec, min 0.80 sec)
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.62% of total time (compiled   14 times, average 0.52 sec, max 0.66 sec, min 0.43 sec)
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.29% of total time (compiled   14 times, average 0.45 sec, max 0.57 sec, min 0.40 sec)
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.96% of total time (compiled   11 times, average 0.41 sec, max 0.53 sec, min 0.35 sec)
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.09% of total time (compiled   12 times, average 0.32 sec, max 0.39 sec, min 0.27 sec)
+[2023.11.20-00.43.53:812][983]LogShaderCompilers: Display: ================================================
+[2023.11.20-00.43.54:028][  9]MaterialEditorStats: Base pass shader: 223 instructions
+[2023.11.20-00.43.54:028][  9]MaterialEditorStats: Base pass vertex shader: 256 instructions
+[2023.11.20-00.43.54:028][  9]MaterialEditorStats: Texture samplers: 4/16
+[2023.11.20-00.43.54:028][  9]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.20-00.43.54:028][  9]MaterialEditorStats: Shader Count: 4
+[2023.11.20-00.43.58:482][539]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.20-00.43.58:482][539]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.20-00.43.58:482][539]MaterialEditorStats: Shader Count: 0
+[2023.11.20-00.43.59:062][603]MaterialEditorStats: Base pass shader: 223 instructions
+[2023.11.20-00.43.59:062][603]MaterialEditorStats: Base pass vertex shader: 256 instructions
+[2023.11.20-00.43.59:062][603]MaterialEditorStats: Texture samplers: 4/16
+[2023.11.20-00.43.59:062][603]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.20-00.43.59:062][603]MaterialEditorStats: Shader Count: 4
+[2023.11.20-00.44.03:966][189]LogMaterialEditor: Saving and Compiling material Button_Color
+[2023.11.20-00.44.04:027][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.11.20-00.44.04:591][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.11.20-00.44.04:607][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-00.44.06:581][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyProps/Button_Color" FILE="F:/Unreal5/GE3-Final/MyProject/Content/MyProps/Button_Color.uasset" SILENT=true
+[2023.11.20-00.44.06:583][189]LogSavePackage: Moving output files for package: /Game/MyProps/Button_Color
+[2023.11.20-00.44.06:583][189]LogSavePackage: Moving 'F:/Unreal5/GE3-Final/MyProject/Saved/Button_ColorD534A7CC440B84B865177FA9552CFFE3.tmp' to 'F:/Unreal5/GE3-Final/MyProject/Content/MyProps/Button_Color.uasset'
+[2023.11.20-00.44.06:595][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.98 sec (total: 4.54 sec)
+[2023.11.20-00.44.06:605][189]AssetCheck: New page: 资产保存：Button_Color
+[2023.11.20-00.44.06:605][189]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/MyProps/Button_Color.Button_Color
+[2023.11.20-00.44.06:606][189]MaterialEditorStats: Base pass shader: 223 instructions
+[2023.11.20-00.44.06:606][189]MaterialEditorStats: Base pass vertex shader: 256 instructions
+[2023.11.20-00.44.06:606][189]MaterialEditorStats: MaxSampler: 270 instructions
+[2023.11.20-00.44.06:606][189]MaterialEditorStats: Texture samplers: 5/16
+[2023.11.20-00.44.06:606][189]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.20-00.44.06:606][189]MaterialEditorStats: Shader Count: 20
+[2023.11.20-00.44.20:992][669]BlueprintLog: New page: 编译BP_Button
+[2023.11.20-00.44.21:016][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.11.20-00.44.21:687][732]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-00.44.21:741][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/My_BP/BP_Button" FILE="F:/Unreal5/GE3-Final/MyProject/Content/My_BP/BP_Button.uasset" SILENT=true
+[2023.11.20-00.44.21:743][732]LogSavePackage: Moving output files for package: /Game/My_BP/BP_Button
+[2023.11.20-00.44.21:744][732]LogSavePackage: Moving 'F:/Unreal5/GE3-Final/MyProject/Saved/BP_Button673B1EE144502C5716E394A40822B843.tmp' to 'F:/Unreal5/GE3-Final/MyProject/Content/My_BP/BP_Button.uasset'
+[2023.11.20-00.44.21:757][732]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 4.61 sec)
+[2023.11.20-00.44.21:759][732]AssetCheck: New page: 资产保存：BP_Button
+[2023.11.20-00.44.21:759][732]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/My_BP/BP_Button.BP_Button
+[2023.11.20-00.44.34:585][781]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/My_BP/BP_Button.BP_Button_C
+[2023.11.20-00.44.34:585][781]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/My_BP/BP_Button.BP_Button_C
+[2023.11.20-00.44.34:586][781]LogActorFactory: Actor Factory spawned Blueprint /Game/My_BP/BP_Button.BP_Button as actor: BP_Button_C /Game/MyMaps/Stage.Stage:PersistentLevel.BP_Button_C_0
+[2023.11.20-00.44.34:586][781]LogActorFactory: Actor Factory spawned Blueprint /Game/My_BP/BP_Button.BP_Button as actor: BP_Button_C /Game/MyMaps/Stage.Stage:PersistentLevel.BP_Button_C_0
+[2023.11.20-00.44.36:537][959]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/My_BP/BP_Button.BP_Button_C
+[2023.11.20-00.44.36:537][959]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/My_BP/BP_Button.BP_Button_C
+[2023.11.20-00.44.36:539][959]LogActorFactory: Actor Factory spawned Blueprint /Game/My_BP/BP_Button.BP_Button as actor: BP_Button_C /Game/MyMaps/Stage.Stage:PersistentLevel.BP_Button_C_1
+[2023.11.20-00.44.36:539][959]LogActorFactory: Actor Factory spawned Blueprint /Game/My_BP/BP_Button.BP_Button as actor: BP_Button_C /Game/MyMaps/Stage.Stage:PersistentLevel.BP_Button_C_1
+[2023.11.20-00.44.36:555][959]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.42:519][436]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2023.11.20-00.44.42:524][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.20-00.44.42:524][436]PIE: New page: PIE会话：Stage（2023年11月19日 下午2:44:42）
+[2023.11.20-00.44.42:524][436]LogPlayLevel: Creating play world package: /Game/MyMaps/UEDPIE_0_Stage
+[2023.11.20-00.44.42:527][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003004s)
+[2023.11.20-00.44.42:527][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyMaps/Stage.Stage to /Game/MyMaps/UEDPIE_0_Stage.Stage (0.003033s)
+[2023.11.20-00.44.42:527][436]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-00.44.42:528][436]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-00.44.42:528][436]LogAIModule: Creating AISystem for world Stage
+[2023.11.20-00.44.42:528][436]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2023.11.20-00.44.42:551][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.11.20-00.44.42:554][436]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.11.20-00.44.42:554][436]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.20-00.44.42:554][436]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.20-00.44.42:554][436]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.20-00.44.42:554][436]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.20-00.44.42:554][436]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.20-00.44.42:554][436]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.20-00.44.42:554][436]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.20-00.44.42:554][436]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.20-00.44.42:555][436]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.20-00.44.42:555][436]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.20-00.44.42:555][436]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.20-00.44.42:556][436]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.20-00.44.42:743][436]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek USB Audio)
+[2023.11.20-00.44.42:743][436]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.20-00.44.42:743][436]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.20-00.44.42:743][436]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.20-00.44.42:744][436]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.11.20-00.44.42:744][436]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2023.11.20-00.44.42:745][436]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.11.20-00.44.42:745][436]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.11.20-00.44.42:745][436]LogInit: FAudioDevice initialized with ID 4.
+[2023.11.20-00.44.42:745][436]LogAudio: Display: Audio Device (ID: 4) registered with world 'Stage'.
+[2023.11.20-00.44.42:745][436]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2023.11.20-00.44.42:748][436]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.11.20-00.44.42:749][436]LogWorld: Bringing World /Game/MyMaps/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2023.11.19-19.44.42
+[2023.11.20-00.44.42:749][436]LogWorld: Bringing up level for play took: 0.001253
+[2023.11.20-00.44.42:752][436]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.11.20-00.44.42:755][436]PIE: 登陆的服务器
+[2023.11.20-00.44.42:758][436]PIE: PIE总开始时间：0.234秒。
+[2023.11.20-00.44.42:923][436]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.42:924][436]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.42:924][436]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.42:924][436]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.42:924][436]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.42:925][436]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.42:925][436]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.42:925][436]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.42:925][436]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.42:926][436]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.42:926][436]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.42:926][436]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.50:420][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-00.44.50:420][831]LogWorld: BeginTearingDown for /Game/MyMaps/UEDPIE_0_Stage
+[2023.11.20-00.44.50:420][831]LogWorld: UWorld::CleanupWorld for Stage, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-00.44.50:421][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-00.44.50:424][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.20-00.44.50:426][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-00.44.50:438][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-00.44.50:438][831]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2023.11.20-00.44.50:438][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.11.20-00.44.50:440][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.11.20-00.44.50:455][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.11.20-00.44.50:465][831]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.50:465][831]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.50:466][831]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.50:466][831]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.50:466][831]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.50:466][831]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.50:467][831]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.50:467][831]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.50:467][831]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.50:467][831]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.50:468][831]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.50:468][831]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.44.50:486][832]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.11.20-00.45.11:783][168]BlueprintLog: New page: 编译BP_Button
+[2023.11.20-00.45.11:827][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.11.20-00.45.12:640][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-00.45.12:700][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/My_BP/BP_Button" FILE="F:/Unreal5/GE3-Final/MyProject/Content/My_BP/BP_Button.uasset" SILENT=true
+[2023.11.20-00.45.12:703][246]LogSavePackage: Moving output files for package: /Game/My_BP/BP_Button
+[2023.11.20-00.45.12:703][246]LogSavePackage: Moving 'F:/Unreal5/GE3-Final/MyProject/Saved/BP_Button21F9AC464024127A52B450A539CD102B.tmp' to 'F:/Unreal5/GE3-Final/MyProject/Content/My_BP/BP_Button.uasset'
+[2023.11.20-00.45.12:718][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 4.69 sec)
+[2023.11.20-00.45.12:720][246]AssetCheck: New page: 资产保存：BP_Button
+[2023.11.20-00.45.12:720][246]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/My_BP/BP_Button.BP_Button
+[2023.11.20-00.45.13:585][348]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.16:139][558]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2023.11.20-00.45.16:146][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.20-00.45.16:146][558]PIE: New page: PIE会话：Stage（2023年11月19日 下午2:45:16）
+[2023.11.20-00.45.16:146][558]LogPlayLevel: Creating play world package: /Game/MyMaps/UEDPIE_0_Stage
+[2023.11.20-00.45.16:149][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002847s)
+[2023.11.20-00.45.16:149][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyMaps/Stage.Stage to /Game/MyMaps/UEDPIE_0_Stage.Stage (0.002871s)
+[2023.11.20-00.45.16:149][558]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-00.45.16:149][558]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-00.45.16:150][558]LogAIModule: Creating AISystem for world Stage
+[2023.11.20-00.45.16:150][558]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2023.11.20-00.45.16:163][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.11.20-00.45.16:167][558]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.11.20-00.45.16:167][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.20-00.45.16:167][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.20-00.45.16:167][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.20-00.45.16:167][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.20-00.45.16:167][558]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.20-00.45.16:167][558]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.20-00.45.16:167][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.20-00.45.16:167][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.20-00.45.16:167][558]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.20-00.45.16:167][558]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.20-00.45.16:167][558]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.20-00.45.16:169][558]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.20-00.45.16:356][558]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek USB Audio)
+[2023.11.20-00.45.16:356][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.20-00.45.16:356][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.20-00.45.16:356][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.20-00.45.16:357][558]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.11.20-00.45.16:357][558]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2023.11.20-00.45.16:358][558]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.11.20-00.45.16:358][558]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.11.20-00.45.16:358][558]LogInit: FAudioDevice initialized with ID 5.
+[2023.11.20-00.45.16:358][558]LogAudio: Display: Audio Device (ID: 5) registered with world 'Stage'.
+[2023.11.20-00.45.16:358][558]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.11.20-00.45.16:362][558]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.11.20-00.45.16:362][558]LogWorld: Bringing World /Game/MyMaps/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2023.11.19-19.45.16
+[2023.11.20-00.45.16:362][558]LogWorld: Bringing up level for play took: 0.000766
+[2023.11.20-00.45.16:364][558]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.11.20-00.45.16:368][558]PIE: 登陆的服务器
+[2023.11.20-00.45.16:370][558]PIE: PIE总开始时间：0.226秒。
+[2023.11.20-00.45.16:500][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.16:500][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.16:500][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.16:501][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.16:501][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.16:501][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.16:501][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.16:502][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.16:502][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.16:502][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.16:502][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.16:502][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.21:881][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-00.45.21:881][917]LogWorld: BeginTearingDown for /Game/MyMaps/UEDPIE_0_Stage
+[2023.11.20-00.45.21:881][917]LogWorld: UWorld::CleanupWorld for Stage, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-00.45.21:881][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-00.45.21:884][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.20-00.45.21:886][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-00.45.21:900][917]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.20-00.45.21:900][917]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.11.20-00.45.21:900][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.11.20-00.45.21:902][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.11.20-00.45.21:927][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-00.45.21:929][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.11.20-00.45.21:951][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.21:951][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.21:951][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.21:951][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.21:952][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.21:952][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.21:952][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.21:952][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.21:952][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.21:953][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.21:953][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.21:953][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.11.20-00.45.21:960][918]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.11.20-00.45.23:721][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-00.45.23:773][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMaps/Stage" FILE="F:/Unreal5/GE3-Final/MyProject/Content/MyMaps/Stage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.20-00.45.23:786][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.11.20-00.45.23:800][ 62]LogSavePackage: Moving output files for package: /Game/MyMaps/Stage
+[2023.11.20-00.45.23:801][ 62]LogSavePackage: Moving 'F:/Unreal5/GE3-Final/MyProject/Saved/Stage75B1DCBA49716D1ABB41748EDA01B88F.tmp' to 'F:/Unreal5/GE3-Final/MyProject/Content/MyMaps/Stage.umap'
+[2023.11.20-00.45.23:805][ 62]LogFileHelpers: Saving map 'Stage' took 0.032
+[2023.11.20-00.45.23:977][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave took 255 ms (total: 4.95 sec)
+[2023.11.20-00.45.23:983][ 62]AssetCheck: New page: 资产保存：Stage
+[2023.11.20-00.45.23:983][ 62]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/MyMaps/Stage.Stage

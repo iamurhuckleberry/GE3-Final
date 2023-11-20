@@ -1,2 +1,6 @@
-2023/11/19-15:18:15.227 897c Creating DB F:/Unreal5/GE3-Final/MyProject/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2023/11/19-15:18:15.283 897c Reusing MANIFEST F:/Unreal5/GE3-Final/MyProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/11/19-18:44:02.678 8614 Reusing MANIFEST F:/Unreal5/GE3-Final/MyProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/11/19-18:44:02.680 8614 Recovering log #3
+2023/11/19-18:44:02.721 8614 Reusing old log F:/Unreal5/GE3-Final/MyProject/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2023/11/19-18:48:14.872 7598 Level-0 table #5: started
+2023/11/19-18:48:14.885 7598 Level-0 table #5: 21092 bytes OK
+2023/11/19-18:48:14.889 7598 Delete type=0 #3
