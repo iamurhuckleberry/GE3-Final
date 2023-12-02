@@ -1929,3 +1929,12 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.02-22.41.15:269][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 1.07 sec)
 [2023.12.02-22.41.15:271][469]AssetCheck: New page: 资产保存：Stage
 [2023.12.02-22.41.15:271][469]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/MyMaps/Stage.Stage
+[2023.12.02-22.50.29:062][175]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.12.02-22.51.15:538][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.12.02-22.51.15:538][314]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyMaps/Stage' took 0.014
+[2023.12.02-22.51.15:539][314]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/My_BP/NPC_PatrolPath] ([3] browsable assets)...
+[2023.12.02-22.51.15:539][314]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_BP/NPC_PatrolPath]
+[2023.12.02-22.51.15:539][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/My_BP/NPC_PatrolPath" FILE="F:/Unreal5/GE3-Final/MyProject/Saved/Autosaves/Game/My_BP/NPC_PatrolPath_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.12.02-22.51.15:540][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/My_BP/NPC_PatrolPath_Auto3
+[2023.12.02-22.51.15:540][314]LogSavePackage: Moving 'F:/Unreal5/GE3-Final/MyProject/Saved/NPC_PatrolPath_Auto39AB121FA4CC5D7CCF777069ACE22E41A.tmp' to 'F:/Unreal5/GE3-Final/MyProject/Saved/Autosaves/Game/My_BP/NPC_PatrolPath_Auto3.uasset'
+[2023.12.02-22.51.15:540][314]LogFileHelpers: Auto-saving content packages took 0.002
