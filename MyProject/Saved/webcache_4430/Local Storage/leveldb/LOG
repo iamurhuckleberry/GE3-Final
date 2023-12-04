@@ -1,3 +1,5 @@
-2023/12/03-05:07:01.863 3de8 Reusing MANIFEST F:/Unreal5/GE3-Final/MyProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/12/03-05:07:01.864 3de8 Recovering log #4
-2023/12/03-05:07:01.874 3de8 Reusing old log F:/Unreal5/GE3-Final/MyProject/Saved/webcache_4430\Local Storage\leveldb/000004.log 
+2023/12/03-22:21:03.943 c5c Reusing MANIFEST F:/Unreal5/GE3-Final/MyProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/12/03-22:21:03.944 c5c Recovering log #4
+2023/12/03-22:21:03.974 c5c Level-0 table #7: started
+2023/12/03-22:21:03.980 c5c Level-0 table #7: 20949 bytes OK
+2023/12/03-22:21:04.017 c5c Delete type=0 #4
