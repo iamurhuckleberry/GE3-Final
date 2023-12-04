@@ -2397,3 +2397,129 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.04-13.16.27:993][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.12.04-13.16.27:997][934]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
 [2023.12.04-13.16.27:997][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-13.17.24:397][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.12.04-13.17.24:400][184]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyMaps/Stage' took 0.033
+[2023.12.04-13.17.24:400][184]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyProps/Starter_Music01] ([1] browsable assets)...
+[2023.12.04-13.17.24:405][184]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/MyProps/Starter_Music01.Starter_Music01]
+[2023.12.04-13.17.24:405][184]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyProps/Starter_Music01]
+[2023.12.04-13.17.24:405][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyProps/Starter_Music01" FILE="F:/Unreal5/GE3-Final/MyProject/Saved/Autosaves/Game/MyProps/Starter_Music01_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.12.04-13.17.24:420][184]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyProps/Starter_Music01_Auto1
+[2023.12.04-13.17.24:420][184]LogSavePackage: Moving 'F:/Unreal5/GE3-Final/MyProject/Saved/Starter_Music01_Auto10254407E47986C5828E81EB82583429F.tmp' to 'F:/Unreal5/GE3-Final/MyProject/Saved/Autosaves/Game/MyProps/Starter_Music01_Auto1.uasset'
+[2023.12.04-13.17.24:421][184]LogFileHelpers: Auto-saving content packages took 0.021
+[2023.12.04-13.22.43:550][142]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=扬声器 (3- G733 Gaming Headset), InstanceID=1
+[2023.12.04-13.22.43:719][142]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=19924
+[2023.12.04-13.22.44:725][145]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b225d221-faa0-49d7-956f-1b3c7d59ec55}, Name=扬声器 (3- G733 Gaming Headset)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=801.43
+[2023.12.04-13.22.44:725][145]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.12.04-13.22.44:726][145]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.12.04-13.25.20:197][763]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2023.12.04-13.25.20:202][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-13.25.20:202][763]PIE: New page: PIE会话：Stage（2023年12月4日 上午3:25:20）
+[2023.12.04-13.25.20:202][763]LogPlayLevel: Creating play world package: /Game/MyMaps/UEDPIE_0_Stage
+[2023.12.04-13.25.20:220][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017787s)
+[2023.12.04-13.25.20:220][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyMaps/Stage.Stage to /Game/MyMaps/UEDPIE_0_Stage.Stage (0.017809s)
+[2023.12.04-13.25.20:220][763]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-13.25.20:220][763]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-13.25.20:221][763]LogAIModule: Creating AISystem for world Stage
+[2023.12.04-13.25.20:221][763]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2023.12.04-13.25.20:237][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.12.04-13.25.20:238][763]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.12.04-13.25.20:238][763]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-13.25.20:238][763]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-13.25.20:238][763]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-13.25.20:238][763]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-13.25.20:238][763]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.04-13.25.20:238][763]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-13.25.20:238][763]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.04-13.25.20:238][763]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-13.25.20:238][763]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-13.25.20:238][763]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-13.25.20:238][763]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-13.25.20:240][763]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-13.25.20:344][763]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (3- G733 Gaming Headset)
+[2023.12.04-13.25.20:344][763]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-13.25.20:344][763]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-13.25.20:344][763]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-13.25.20:344][763]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.12.04-13.25.20:344][763]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.12.04-13.25.20:346][763]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.12.04-13.25.20:346][763]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.12.04-13.25.20:346][763]LogInit: FAudioDevice initialized with ID 8.
+[2023.12.04-13.25.20:346][763]LogAudio: Display: Audio Device (ID: 8) registered with world 'Stage'.
+[2023.12.04-13.25.20:346][763]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.12.04-13.25.20:348][763]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.04-13.25.20:353][763]LogWorld: Bringing World /Game/MyMaps/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2023.12.04-08.25.20
+[2023.12.04-13.25.20:353][763]LogWorld: Bringing up level for play took: 0.005134
+[2023.12.04-13.25.20:355][763]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.12.04-13.25.20:358][763]PIE: 登陆的服务器
+[2023.12.04-13.25.20:359][763]PIE: PIE总开始时间：0.156秒。
+[2023.12.04-13.25.20:368][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.20:369][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.20:369][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.20:369][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.20:369][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.20:369][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.20:369][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.20:370][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.20:370][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.20:370][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.20:370][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.20:370][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.20:371][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.20:371][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.28:170][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-13.25.28:170][404]LogWorld: BeginTearingDown for /Game/MyMaps/UEDPIE_0_Stage
+[2023.12.04-13.25.28:170][404]LogWorld: UWorld::CleanupWorld for Stage, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-13.25.28:170][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-13.25.28:173][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-13.25.28:175][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-13.25.28:188][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-13.25.28:189][404]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.12.04-13.25.28:189][404]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.12.04-13.25.28:190][404]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.12.04-13.25.28:196][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.12.04-13.25.28:216][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.28:217][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.28:217][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.28:217][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.28:217][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.28:217][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.28:218][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.28:218][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.28:218][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.28:218][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.28:218][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.28:219][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.28:258][405]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.25.28:268][406]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.12.04-13.34.40:594][ 55]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.34.40:594][ 55]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.34.41:276][104]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.34.41:277][104]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.34.41:305][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.34.41:306][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.34.41:642][130]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.34.41:705][135]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.34.41:706][135]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.34.41:769][139]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.34.42:766][210]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.12.04-13.34.45:198][395]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.34.45:198][395]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.34.45:198][395]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.34.45:199][395]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.34.45:199][395]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.34.45:199][395]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.34.45:200][395]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.34.45:200][395]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.34.45:200][395]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.34.45:200][395]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.34.45:200][395]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.34.45:201][395]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.12.04-13.34.50:932][849]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.04-13.34.50:976][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMaps/Stage" FILE="F:/Unreal5/GE3-Final/MyProject/Content/MyMaps/Stage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.04-13.34.50:991][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.12.04-13.34.51:033][849]LogSavePackage: Moving output files for package: /Game/MyMaps/Stage
+[2023.12.04-13.34.51:034][849]LogSavePackage: Moving 'F:/Unreal5/GE3-Final/MyProject/Saved/StageD702CC604CE3A9E367FE1F8073EC7A24.tmp' to 'F:/Unreal5/GE3-Final/MyProject/Content/MyMaps/Stage.umap'
+[2023.12.04-13.34.51:038][849]LogFileHelpers: Saving map 'Stage' took 0.063
+[2023.12.04-13.34.51:044][849]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 1.34 sec)
+[2023.12.04-13.34.51:047][849]AssetCheck: New page: 资产保存：Stage
+[2023.12.04-13.34.51:047][849]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/MyMaps/Stage.Stage
